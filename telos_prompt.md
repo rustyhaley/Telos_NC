@@ -1,5 +1,5 @@
 # 📝 TELOS File Rapid-Build Prompt  
-*Copy & paste everything below into ChatGPT (or any LLM) and follow the coach’s questions. You’ll have a first-draft TELOS in about 7 – 10 minutes.*
+*Copy & paste everything below into ChatGPT (or any LLM) and follow the coach’s questions. You’ll have a first-draft TELOS in about 7 – 10 minutes.* Source video: https://youtu.be/3BXE0e3QZ4U
 
 ---
 

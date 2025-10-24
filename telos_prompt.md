@@ -7,7 +7,7 @@ https://youtu.be/3BXE0e3QZ4U
 
 https://youtu.be/popvxbg9Flc
 
-See the t_xxxxx patterns in https://github.com/rustyhaley/fabric/blob/main/data/patterns/t_extract_panel_topics/system.md
+See the t_xxxxx patterns in https://github.com/rustyhaley/fabric/blob/main/data/patterns/t_*/system.md
 
 
 ---
